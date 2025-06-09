@@ -1,5 +1,5 @@
-# SysBiol_Proj3
-Cell Charter - Neighbourhood representation
+# SysBiol_Proteomics_Proj3
+Third project in Systems Biology - Cell Charter Neighbourhood representation
 
 Script complete only until exercises 1-3. 
 
